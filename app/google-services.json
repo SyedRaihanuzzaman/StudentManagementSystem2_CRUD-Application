@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939835413933",
+    "project_id": "practical6smcrud",
+    "storage_bucket": "practical6smcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939835413933:android:d2381b21bdbd65b3363d24",
+        "android_client_info": {
+          "package_name": "com.raihan.practical6studentmangaementcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcoFgFHt45RAiCjIucqpHepcXHhzXe7xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
